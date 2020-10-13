@@ -1,0 +1,208 @@
+/* The Mandalorian Stylesheet*/
+
+/*Headline*/
+h1 {
+  color: #feb75d;
+  font-size: 140px;
+  margin-top: 0;
+  padding-top: 0;
+  font-family: 'Major Mono Display', monospace;
+}
+
+.SW {
+  color: #feb75d;
+  text-align: center;
+  font-size: 60px;
+  padding-top: 15px;
+  margin: 0;
+  padding-bottom: 0;
+  font-family: 'Major Mono Display', monospace;
+}
+
+.The {
+  color: #836a5a;
+  background-color: black;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background-size: auto;
+  font-family: 'Major Mono Display', monospace;
+}
+
+.line {
+  background: #feb75d;
+}
+
+#DIVthe {
+  background-color: #feb75d;
+  padding: 0;
+  width: 1129px;
+  height: 15px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+#THE {
+  font-size: 20px;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  font-family: 'Major Mono Display', monospace
+}
+
+/* Background */
+#gradient {
+  background-image: linear-gradient(to bottom right, black, black, black, black, black, black, black, #feb75d, #ffe06c, #feb75d, #836a5a, black, black, black);
+}
+html {
+  min-height: 100%;
+}
+
+/* Text classes */
+.center {
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.orange {
+  color: #feb75d;
+  text-decoration: none;
+}
+
+.text {
+  color: white;
+  text-align: justify;
+  margin-left: 200px;
+  margin-right: 200px;
+  text-indent: 50px;
+}
+
+.CH-Name {
+  color: #feb75d;
+  font-size: 200%;
+  text-indent: 15px;
+}
+
+.CH-Text {
+  margin-left: 315px;
+}
+
+.teleporter {
+  text-indent: 75px;
+  color: white;
+  background-color: black;
+  margin-right: 717px;
+  text-decoration: underline;
+}
+
+h3:hover {
+  background-color: #feb75d;
+  color: black;
+}
+
+#div2 {
+  clear: left
+}
+
+#p2 {
+  margin-left: 0;
+  margin-right: 200px;
+}
+
+#CH-TM {
+  width: 22%;
+  height: 22%;
+  margin-left: 15px;
+}
+
+#CH-BByoda {
+  width: 30%;
+  height: 30%;
+}
+
+#center {
+  text-align: center;
+  text-indent: -50px;
+}
+
+#MJsize {
+  height: 27%;
+  width: 27%;
+  padding-right: 10px;
+}
+
+#mandaloriansize {
+  height: 20%;
+  width: 20%;
+  padding-right: 10px;
+}
+
+#yodasize {
+  height: 13%;
+  width: 13%;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#TM {
+  height: 30%;
+  width: 30%;
+}
+
+#BY {
+  height: 20%;
+  width: 20%;
+}
+
+/* IMG headline */
+.h1img {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  color: #feb75d;
+  background-size: 4000px;
+  /*border-right: 50px;
+  border-top: 50px;
+  border-color: black;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;*/
+}
+
+/* List Style */
+ul{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+}
+li{
+  display: inline-block;
+  color: #feb75d;
+  width: 150px;
+  background-color: black;
+  background-size: 100px;
+  padding: 5px;
+}
+li a {
+  display: block;
+}
+
+li a:hover{
+  background-color: #feb75d;
+  color: black;
+}
+
+#botpadding {
+  padding-bottom: 20px;
+}
